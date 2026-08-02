@@ -44,8 +44,7 @@ Developed a multimodal deep learning framework integrating air quality, meteorol
 **Multimodal Deep Learning Benchmark for PM2.5 Forecasting**
 
 Repository:
-https://github.com/maquhal/MyMScProject
-
+https://github.com/maquhal/PM25-Multimodal-Deep-Learning-Benchmark
 ---
 
 ## Contact
