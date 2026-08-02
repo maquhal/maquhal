@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Mohammed Quhal
-- 👀 I’m interested in ... IT and CyberSecurity
-- 🌱 I’m currently learning ... Bachelor of IT
-- 💞️ I’m looking to collaborate on ... Master of AI
-- 📫 How to reach me ... @MAQuhal
+Mohammed A. Quhal
 
-<!---
-vvhm/vvhm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MSc in Artificial Intelligence
+University of Surrey
+
+Research Interests
+
+• Trustworthy AI
+• Deep Learning
+• Multimodal Learning
+• Foundation Models
+• Healthcare AI
+
+Current Research
+
+Multimodal PM2.5 Forecasting
+AI for Environmental Intelligence
+
+Selected Projects
+
+Multimodal Deep Learning Benchmark for PM2.5 Forecasting
+
+Contact
+
+University of Surrey
+Email
+LinkedIn
