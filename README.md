@@ -50,7 +50,7 @@ https://github.com/maquhal/MyMScProject
 
 ## Contact
 
-📧 mq00230@surrey.ac.uk
+📧 mq00230@surrey.ac.uk / m.quhal@hotmail.com
 
 🔗 LinkedIn:
 https://linkedin.com/in/maquhal
