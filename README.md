@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed A. Quhal 👋
+Mohammed A. Quhal
 
 MSc in Artificial Intelligence
 University of Surrey
